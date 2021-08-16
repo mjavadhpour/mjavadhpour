@@ -12,3 +12,4 @@
 **💼 Currently working as:** Full Stack Developer at <a href="http://medxfactor.com/" target="_blank"><b>medxfactor.com</b></a>
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=mjavadhpour&show_icons=true&line_height=30&count_private=true)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mjavadhpour&amp;layout=compact)
